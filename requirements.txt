@@ -1,0 +1,7 @@
+numpy
+cv2
+mxnet
+sklearn
+scikit-image
+scipy
+matplotlib
